@@ -35,7 +35,7 @@ To use MPLU, follow these steps:
 
 2. Clone the repository:
    ```
-   git clone https://github.com/KingOni/mplu.git
+   git clone https://github.com/King-Oni/MPLU.git
    ```
 
 4. Example Usage:
